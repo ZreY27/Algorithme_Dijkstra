@@ -41,7 +41,7 @@ Algorithme_Dijkstra/
 
 ---
 
-## 👩‍💻 Auteur
+## 👩‍💻 Auteurs
 
 - **Antoine**
 - **Apollinaire**
